@@ -10,4 +10,4 @@ Hope you enjoy it
 
 Thank You.
 
-![A screenshot of your theme](https://cloud.githubusercontent.com/assets/378023/8842525/4215f26c-3136-11e5-9d94-d2c078a05d24.png)
+![A screenshot of your theme](https://user-images.githubusercontent.com/7544317/27774432-107068b2-5f8a-11e7-9c73-3d3ebcc61e35.png)
