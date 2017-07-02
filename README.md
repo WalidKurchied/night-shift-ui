@@ -11,3 +11,4 @@ Hope you enjoy it
 Thank You.
 
 ![A screenshot of your theme](https://user-images.githubusercontent.com/7544317/27774432-107068b2-5f8a-11e7-9c73-3d3ebcc61e35.png)
+![A screenshot of your theme](https://user-images.githubusercontent.com/7544317/27774464-90c18dd4-5f8a-11e7-8756-4c3be6de0075.png)
