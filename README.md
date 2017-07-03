@@ -2,8 +2,6 @@
 > Atom Dark UI Theme
 
 A UI theme inspired by night time it works well with dark syntax themes such as Duotone darkpool or Duotone berries and others.
-Im working on creating a new syntax theme which will work perfectly with this ui theme and other themes.
-
 
 
 
