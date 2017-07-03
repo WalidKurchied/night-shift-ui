@@ -6,6 +6,7 @@
 
 
 A UI theme inspired by night time it works well with dark syntax themes such as Duotone darkpool or Duotone berries etc.
+
 Im working on creating my own syntax which will work perfectly with this theme and other themes.
 
 
