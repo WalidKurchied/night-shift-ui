@@ -1,4 +1,4 @@
-# Night Shift UI Theme
+# Night Shift
 
 > Atom Dark UI Theme
 
