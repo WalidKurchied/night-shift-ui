@@ -14,7 +14,7 @@
     "design",
     "nighttime"
   ],
-  "repository": "https://github.com/WalidKurchied/Night-Shift-Theme",
+  "repository": "https://github.com/WalidKurchied/Night-Shift-UI",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
