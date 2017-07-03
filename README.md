@@ -25,7 +25,7 @@ OR
 
 1. Go to Atom > Preferences
 2. Click on Themes from the left menu bar
-3. From the UI Theme select night shift.
+3. From the UI Theme select night shift
 
 
 
