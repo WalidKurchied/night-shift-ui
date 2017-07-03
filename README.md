@@ -7,8 +7,12 @@ A UI theme inspired by night time it works well with dark syntax themes such as 
 Im working on creating a new syntax theme which will work perfectly with this ui theme and other themes.
 
 
+
+
 ### Installation
-apm install night-shift-ui or from Atom Settings > Install
+`apm install night-shift-ui OR from Atom Settings > Install`
+
+
 
 
 ### Screenshots
