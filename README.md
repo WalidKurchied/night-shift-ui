@@ -9,8 +9,9 @@ A UI theme inspired by night time it works well with dark syntax themes such as 
 
 You can install this Them using:
 
-`apm install night-shift-ui`
-
+```
+apm install night-shift-ui
+```
 OR
 
 1. Go to Atom > Preferences
