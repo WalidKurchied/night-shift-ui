@@ -1,7 +1,7 @@
 # Night Shift UI
 > Atom Dark UI Theme
 
-A UI theme inspired by night time it works well with dark syntax themes such as Duotone darkpool or Duotone berries and others.
+A UI theme inspired by night time it works well with dark syntax themes such as [night-shift-syntax](https://github.com/WalidKurchied/night-shift-syntax.git)
 
 
 
